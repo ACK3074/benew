@@ -1,0 +1,16 @@
+{
+    "lastest": "0.2.5",
+    "versions": [
+        {
+            "version": "0.2.5",
+            "releasetime": "2020-09-23 16:00:00",
+            "filename": "BenewVPN_Secure_v0.2.5",
+            "whatsnew": [
+                "添加未捕获的异常日志记录",
+                "修复自动启动后的连接异常"
+            ],
+            "url": "https://github.com/ACK3074/benew-windows/releases/download/v.0.2.5/BenewVPN_Secure_v0.2.5.7z",
+            "md5": ""
+        }
+    ]
+}
